@@ -1,0 +1,7 @@
+{
+  "name": "Clinica nacho bueno",
+  "description": "A modern, aesthetic dental clinic website focused on high-end treatments and patient comfort.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
